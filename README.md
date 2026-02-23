@@ -1,2 +1,3 @@
-# Kajal-s-lab-demo
+# Kajal's-lab-demo
 First Git Repository
+Authoe - Kajal Chauhan
